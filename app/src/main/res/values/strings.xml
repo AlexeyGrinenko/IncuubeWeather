@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IncuubeWeather</string>
+    <string name="text_temp_maximum">t. high</string>
+    <string name="text_temp_minimum">t. low</string>
+    <string name="text_symbol_degree">\u00B0</string>
+    <string name="text_action_search">Search</string>
+    <string name="text_search_hint">Enter location name</string>
+    <string name="text_error_location">Please, enter correct location name and try again</string>
+    <string name="text_error_internet">This application required internet connection. Please turn on internet</string>
+    <string name="text_ok">Ok</string>
+
+</resources>
